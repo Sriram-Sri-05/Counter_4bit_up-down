@@ -144,7 +144,7 @@ Click the cds.lib file and save the file by clicking on Save option
 	Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation
 
 ## Fig 6: Nclaunch Window
-![Screenshot (23)](https://github.com/user-attachments/assets/503026dc-ec01-4ca1-897b-a983377ab9e6)
+![Screenshot (59)](https://github.com/user-attachments/assets/89d8429f-431d-4883-9a28-2153b31abd0c)
 
 
 To perform the function simulation, the following three steps are involved Compilation, Elaboration and Simulation.
@@ -172,7 +172,7 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
 Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation 
 
 ## Fig 7: Compiled database in worklib
-![Screenshot (24)](https://github.com/user-attachments/assets/721a1be1-3574-48e7-8cc5-3aac49b2f244)
+![Screenshot (60)](https://github.com/user-attachments/assets/f6ca214c-f78c-4c1b-a09c-f23c096f40a9)
 
 
 
